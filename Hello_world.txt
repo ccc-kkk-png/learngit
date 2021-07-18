@@ -1,3 +1,4 @@
 Hello world!
 Creating a new branch 'feature1'
 Simple
+a new
